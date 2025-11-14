@@ -77,9 +77,9 @@ input[type="checkbox"] {
 
 .products {
     display: grid;
-    grid-template-columns: repeat(4, 290px); /* 4 карточки в ряд */
-    justify-content: center; /* центрируем сетку */
-    gap: 28px; /* отступ между карточками */
+    grid-template-columns: repeat(4, 290px);
+    justify-content: center; 
+    gap: 28px;
     margin: 0 auto 52px auto;
     max-width: 1300px;
 }
@@ -156,4 +156,5 @@ footer {
     width: 32px;
     height: 32px;
 }
+
 
